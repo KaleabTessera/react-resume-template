@@ -11,12 +11,12 @@ const Nav = () => (
       <Link to="/" className="logo">
         <img src="/images/me_icon.jpg" alt="" />
       </Link>
-      <header>
+      <div>
         <h2>Kale-ab Tessera</h2>
         <p>
           <a href="mailto:kaleabtessera@gmail.com">kaleabtessera@gmail.com</a>
         </p>
-      </header>
+      </div>
     </section>
 
     <section className="blurb">
